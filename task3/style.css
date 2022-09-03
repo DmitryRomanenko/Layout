@@ -1,0 +1,24 @@
+.red {
+  width: 20%;
+}
+.green {
+  width: 80%;
+}
+.blue {
+  width: 20%;
+}
+.black {
+  width: 80%;
+}
+.black div {
+  width: 25%;
+}
+.black div:nth-child(3) {
+  width: 50%;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}

@@ -1,0 +1,14 @@
+.red {
+  background-color: red;
+  width: 90%;
+}
+.green {
+  background-color: green;
+  width: 10%;
+}
+.right {
+  float: right;
+}
+.left {
+  float: left;
+}

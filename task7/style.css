@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+div {
+  padding: 10px;
+  border: 2px solid black;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}

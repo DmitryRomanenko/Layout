@@ -1,0 +1,14 @@
+ul {
+  list-style-type: none;
+  cursor: pointer;
+  width: 70px;
+  padding: 0;
+}
+.lvl2 {
+  display: none;
+  background-color: red;
+  text-align: right;
+}
+.lvl1:hover .lvl2 {
+  display: block;
+}
